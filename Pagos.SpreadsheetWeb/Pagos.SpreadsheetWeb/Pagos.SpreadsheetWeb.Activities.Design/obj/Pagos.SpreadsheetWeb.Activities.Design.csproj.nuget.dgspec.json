@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities.Design\\Pagos.SpreadsheetWeb.Activities.Design.csproj": {}
+    "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities.Design\\Pagos.SpreadsheetWeb.Activities.Design.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities.Design\\Pagos.SpreadsheetWeb.Activities.Design.csproj": {
+    "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities.Design\\Pagos.SpreadsheetWeb.Activities.Design.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities.Design\\Pagos.SpreadsheetWeb.Activities.Design.csproj",
+        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities.Design\\Pagos.SpreadsheetWeb.Activities.Design.csproj",
         "projectName": "Pagos.SpreadsheetWeb.Activities",
-        "projectPath": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities.Design\\Pagos.SpreadsheetWeb.Activities.Design.csproj",
+        "projectPath": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities.Design\\Pagos.SpreadsheetWeb.Activities.Design.csproj",
         "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities.Design\\obj\\",
+        "outputPath": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities.Design\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\.nuget\\NuGet.Config",
+          "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\.nuget\\NuGet.Config",
           "C:\\Users\\Onur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -36,8 +36,8 @@
           "net461": {
             "targetAlias": "net461",
             "projectReferences": {
-              "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\Pagos.SpreadsheetWeb.Activities.csproj": {
-                "projectPath": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\Pagos.SpreadsheetWeb.Activities.csproj",
+              "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\Pagos.SpreadsheetWeb.Activities.csproj": {
+                "projectPath": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\Pagos.SpreadsheetWeb.Activities.csproj",
                 "privateAssets": "all"
               }
             }
@@ -56,21 +56,21 @@
         }
       }
     },
-    "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\Pagos.SpreadsheetWeb.Activities.csproj": {
+    "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\Pagos.SpreadsheetWeb.Activities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\Pagos.SpreadsheetWeb.Activities.csproj",
+        "projectUniqueName": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\Pagos.SpreadsheetWeb.Activities.csproj",
         "projectName": "Pagos.SpreadsheetWeb.Activities.Implementation",
-        "projectPath": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\Pagos.SpreadsheetWeb.Activities.csproj",
+        "projectPath": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\Pagos.SpreadsheetWeb.Activities.csproj",
         "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\obj\\",
+        "outputPath": "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb\\Pagos.SpreadsheetWeb.Activities\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Onur\\Desktop\\uipath\\Source\\Pagos.SpreadsheetWeb\\.nuget\\NuGet.Config",
+          "C:\\Users\\Onur\\Desktop\\uipath\\Source\\uipath\\Pagos.SpreadsheetWeb\\.nuget\\NuGet.Config",
           "C:\\Users\\Onur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

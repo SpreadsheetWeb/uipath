@@ -4,14 +4,12 @@
     <id>Pagos.SpreadsheetWeb.Activities</id>
     <version>1.0.0</version>
     <authors>Pagos Inc.</authors>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <license type="expression">MIT</license>
-    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <projectUrl>https://help.spreadsheetweb.com/</projectUrl>
     <iconUrl>https://www2.spreadsheetweb.com/ssweb_logo_256.png</iconUrl>
     <description>You can use this extension to integrate your UIPath applications with SpreadsheetWeb.</description>
     <copyright>© 2021 Pagos Inc.</copyright>
     <tags>UiPath Activit𝗒, SpreadsheetWeb Calculator, Spreadsheet Web</tags>
+    <repository url="https://github.com/SpreadsheetWeb/uipath" />
     <dependencies>
       <group targetFramework=".NETFramework4.6.1" />
     </dependencies>
@@ -33,13 +31,13 @@
     </frameworkAssemblies>
   </metadata>
   <files>
-    <file src="C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.dll" target="lib\net461\Pagos.SpreadsheetWeb.Activities.dll" />
-    <file src="C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Pagos.SpreadsheetWeb.Web.Api.Objects.dll" target="lib\net461\Pagos.SpreadsheetWeb.Web.Api.Objects.dll" />
-    <file src="C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\SpreadsheetWebAPI.dll" target="lib\net461\SpreadsheetWebAPI.dll" />
-    <file src="C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Newtonsoft.Json.dll" target="lib\net461\Newtonsoft.Json.dll" />
-    <file src="C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.xml" target="lib\net461\Pagos.SpreadsheetWeb.Activities.xml" />
-    <file src="C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities.Design\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.Design.dll" target="lib\net461\Pagos.SpreadsheetWeb.Activities.Design.dll" />
-    <file src="C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities.Design\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.Design.xml" target="lib\net461\Pagos.SpreadsheetWeb.Activities.Design.xml" />
-    <file src="C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities.Design\packageIcon.png" target="packageIcon.png" />
+    <file src="C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.dll" target="lib\net461\Pagos.SpreadsheetWeb.Activities.dll" />
+    <file src="C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Pagos.SpreadsheetWeb.Web.Api.Objects.dll" target="lib\net461\Pagos.SpreadsheetWeb.Web.Api.Objects.dll" />
+    <file src="C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\SpreadsheetWebAPI.dll" target="lib\net461\SpreadsheetWebAPI.dll" />
+    <file src="C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Newtonsoft.Json.dll" target="lib\net461\Newtonsoft.Json.dll" />
+    <file src="C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.xml" target="lib\net461\Pagos.SpreadsheetWeb.Activities.xml" />
+    <file src="C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities.Design\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.Design.dll" target="lib\net461\Pagos.SpreadsheetWeb.Activities.Design.dll" />
+    <file src="C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities.Design\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.Design.xml" target="lib\net461\Pagos.SpreadsheetWeb.Activities.Design.xml" />
+    <file src="C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities.Design\packageIcon.png" target="packageIcon.png" />
   </files>
 </package>

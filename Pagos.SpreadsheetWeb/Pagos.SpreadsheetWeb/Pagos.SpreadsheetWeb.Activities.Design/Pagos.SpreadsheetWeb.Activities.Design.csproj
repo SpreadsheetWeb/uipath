@@ -7,8 +7,7 @@
   </PropertyGroup>
   <!-- Package Metadata -->
   <PropertyGroup>
-    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Description>You can use this extension to integrate your UIPath applications with SpreadsheetWeb.</Description>
     <Authors>Pagos Inc.</Authors>
     <Company>Pagos Inc.</Company>
@@ -60,6 +59,7 @@
     <OutputPath>bin\$(Configuration)\</OutputPath>
     <DocumentationFile>bin\$(Configuration)\Pagos.SpreadsheetWeb.Activities.Design.xml</DocumentationFile>
     <Product>SpreadsheetWeb</Product>
+    <RepositoryUrl>https://github.com/SpreadsheetWeb/uipath</RepositoryUrl>
   </PropertyGroup>
 	<ItemGroup>
 		<Reference Include="System" />

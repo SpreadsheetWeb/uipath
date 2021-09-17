@@ -14,7 +14,7 @@
   <PropertyGroup>
     <OutputPath>bin\$(Configuration)\</OutputPath>
     <DocumentationFile>bin\$(Configuration)\Pagos.SpreadsheetWeb.Activities.xml</DocumentationFile>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/SpreadsheetWeb/uipath</RepositoryUrl>
   </PropertyGroup>
 	<ItemGroup>
 		<Reference Include="Newtonsoft.Json">

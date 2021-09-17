@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities.Design\obj\Debug\net461\
+C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities.Design\obj\Debug\net461\
 Pagos.SpreadsheetWeb.Activities.Design
 none
 false
 TRACE;DEBUG;NETFRAMEWORK;NET461;
 
-72070492051
+71274693987
 
-201152736948
-20-148157428
-..\..\Shared\Themes\Generic.xaml;Designers\CalculatorDesigner.xaml;Themes\Icons.xaml;C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Shared\UiPath.Shared.Activities.Design\Controls\ComboboxControl.xaml;C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Shared\UiPath.Shared.Activities.Design\Controls\FilePathControl.xaml;C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Shared\UiPath.Shared.Activities.Design\Controls\RestrictiveBodyConnector.xaml;C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Shared\UiPath.Shared.Activities.Design\Editors\EditorTemplates.xaml;
+20393238262
+20-1316719693
+..\..\Shared\Themes\Generic.xaml;Designers\CalculatorDesigner.xaml;Themes\Icons.xaml;C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Shared\UiPath.Shared.Activities.Design\Controls\ComboboxControl.xaml;C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Shared\UiPath.Shared.Activities.Design\Controls\FilePathControl.xaml;C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Shared\UiPath.Shared.Activities.Design\Controls\RestrictiveBodyConnector.xaml;C:\Users\Onur\Desktop\uipath\Source\uipath\Pagos.SpreadsheetWeb\Shared\UiPath.Shared.Activities.Design\Editors\EditorTemplates.xaml;
 
-True
+False
 
