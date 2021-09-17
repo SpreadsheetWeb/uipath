@@ -1,0 +1,11 @@
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\bin\Release\net461\Pagos.SpreadsheetWebCalculator3.dll
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\bin\Release\net461\Pagos.SpreadsheetWebCalculator3.pdb
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\bin\Release\net461\Pagos.SpreadsheetWebCalculator3.xml
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\obj\Release\net461\Pagos.SpreadsheetWebCalculator3.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\obj\Release\net461\Pagos.SpreadsheetWebCalculator3.Properties.Resources.resources
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\obj\Release\net461\Pagos.SpreadsheetWebCalculator3.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\obj\Release\net461\Pagos.SpreadsheetWebCalculator3.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\obj\Release\net461\Pagos.SpreadsheetWebCalculator3.AssemblyInfo.cs
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\obj\Release\net461\Pagos.SpreadsheetWebCalculator3.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\obj\Release\net461\Pagos.SpreadsheetWebCalculator3.dll
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\Pagos.SpreadsheetWebCalculator3\obj\Release\net461\Pagos.SpreadsheetWebCalculator3.pdb

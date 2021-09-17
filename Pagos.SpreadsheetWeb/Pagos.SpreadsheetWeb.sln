@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pagos.SpreadsheetWeb", "Pagos.SpreadsheetWeb", "{E577903F-E458-4092-859D-DE3EFDEC77FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pagos.SpreadsheetWeb.Activities", "Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\Pagos.SpreadsheetWeb.Activities.csproj", "{0DB85243-DD10-4222-BCAB-6340645BE06A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pagos.SpreadsheetWeb.Activities.Design", "Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities.Design\Pagos.SpreadsheetWeb.Activities.Design.csproj", "{5EA44394-912D-49AE-BA50-ABD7A2D4B7AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{F6EFBE72-1316-4454-8AE8-DEA4D836FC62}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities", "Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.shproj", "{4546856D-EA50-45C6-9419-EEEACB5A80AA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities.Design", "Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.shproj", "{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{0db85243-dd10-4222-bcab-6340645be06a}*SharedItemsImports = 5
+		Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{4546856d-ea50-45c6-9419-eeeacb5a80aa}*SharedItemsImports = 13
+		Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{5ea44394-912d-49ae-ba50-abd7a2d4b7ac}*SharedItemsImports = 5
+		Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{df9c43f0-add3-4fbf-995e-84b92f9cbf25}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DB85243-DD10-4222-BCAB-6340645BE06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB85243-DD10-4222-BCAB-6340645BE06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB85243-DD10-4222-BCAB-6340645BE06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB85243-DD10-4222-BCAB-6340645BE06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA44394-912D-49AE-BA50-ABD7A2D4B7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA44394-912D-49AE-BA50-ABD7A2D4B7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA44394-912D-49AE-BA50-ABD7A2D4B7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA44394-912D-49AE-BA50-ABD7A2D4B7AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0DB85243-DD10-4222-BCAB-6340645BE06A} = {E577903F-E458-4092-859D-DE3EFDEC77FC}
+		{5EA44394-912D-49AE-BA50-ABD7A2D4B7AC} = {E577903F-E458-4092-859D-DE3EFDEC77FC}
+		{4546856D-EA50-45C6-9419-EEEACB5A80AA} = {F6EFBE72-1316-4454-8AE8-DEA4D836FC62}
+		{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25} = {F6EFBE72-1316-4454-8AE8-DEA4D836FC62}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7B2BF5E-7A95-45D5-8CB2-8DA0460042BB}
+	EndGlobalSection
+EndGlobal

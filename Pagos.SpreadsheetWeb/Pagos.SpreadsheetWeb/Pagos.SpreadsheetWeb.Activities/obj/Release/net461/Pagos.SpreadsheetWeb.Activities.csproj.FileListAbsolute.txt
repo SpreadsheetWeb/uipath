@@ -1,0 +1,15 @@
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.dll
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.pdb
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Pagos.SpreadsheetWeb.Activities.xml
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Newtonsoft.Json.dll
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\Pagos.SpreadsheetWeb.Web.Api.Objects.dll
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\obj\Release\net461\Pagos.SpreadsheetWeb.Activities.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\obj\Release\net461\Pagos.SpreadsheetWeb.Activities.Properties.Resources.resources
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\obj\Release\net461\Pagos.SpreadsheetWeb.Activities.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\obj\Release\net461\Pagos.SpreadsheetWeb.Activities.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\obj\Release\net461\Pagos.SpreadsheetWeb.Activities.AssemblyInfo.cs
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\obj\Release\net461\Pagos.SpreadsheetWeb.Activities.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\obj\Release\net461\Pagos.SpreadsheetWeb.Activities.csproj.CopyComplete
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\obj\Release\net461\Pagos.SpreadsheetWeb.Activities.dll
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\obj\Release\net461\Pagos.SpreadsheetWeb.Activities.pdb
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb.Activities\bin\Release\net461\SpreadsheetWebAPI.dll

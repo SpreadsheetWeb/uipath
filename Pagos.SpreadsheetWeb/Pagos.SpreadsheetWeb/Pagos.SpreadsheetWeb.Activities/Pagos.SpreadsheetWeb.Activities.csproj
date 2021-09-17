@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetFrameworks>net461</TargetFrameworks>
+		<RootNamespace>Pagos.SpreadsheetWeb.Activities</RootNamespace>
+		<AssemblyName>Pagos.SpreadsheetWeb.Activities</AssemblyName>
+    <PackageId>Pagos.SpreadsheetWeb.Activities.Implementation</PackageId>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+    <DocumentationFile>bin\$(Configuration)\Pagos.SpreadsheetWeb.Activities.xml</DocumentationFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+	<ItemGroup>
+		<Reference Include="Newtonsoft.Json">
+		  <HintPath>..\..\..\reps\Newtonsoft.Json.dll</HintPath>
+		</Reference>
+		<Reference Include="Pagos.SpreadsheetWeb.Web.Api.Objects">
+		  <HintPath>..\..\..\reps\Pagos.SpreadsheetWeb.Web.Api.Objects.dll</HintPath>
+		</Reference>
+		<Reference Include="SpreadsheetWebAPI">
+		  <HintPath>..\..\..\reps\SpreadsheetWebAPI.dll</HintPath>
+		</Reference>
+		<Reference Include="System" />
+		
+		<Reference Include="System.Core" />
+		<Reference Include="System.Xml.Linq" />
+		<Reference Include="System.Data.DataSetExtensions" />
+		
+		
+		<Reference Include="Microsoft.CSharp" />
+ 		
+		<Reference Include="System.Data" />
+		<Reference Include="System.Xml" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.*.resx">
+      <DependentUpon>Resources.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="..\..\Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems" Label="Shared" />
+</Project>

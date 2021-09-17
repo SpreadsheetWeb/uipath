@@ -1,0 +1,11 @@
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\bin\Debug\net461\Pagos.SpreadsheetWeb.dll
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\bin\Debug\net461\Pagos.SpreadsheetWeb.pdb
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\bin\Debug\net461\Pagos.SpreadsheetWeb.xml
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\obj\Debug\net461\Pagos.SpreadsheetWeb.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\obj\Debug\net461\Pagos.SpreadsheetWeb.Properties.Resources.resources
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\obj\Debug\net461\Pagos.SpreadsheetWeb.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\obj\Debug\net461\Pagos.SpreadsheetWeb.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\obj\Debug\net461\Pagos.SpreadsheetWeb.AssemblyInfo.cs
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\obj\Debug\net461\Pagos.SpreadsheetWeb.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\obj\Debug\net461\Pagos.SpreadsheetWeb.dll
+C:\Users\Onur\Desktop\uipath\Source\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\Pagos.SpreadsheetWeb\obj\Debug\net461\Pagos.SpreadsheetWeb.pdb
